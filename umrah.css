@@ -1,0 +1,64 @@
+.header-umrah{
+    text-align: center;
+    margin-top: 25px;
+    font-weight: 500;
+    font-size: 39px;
+    color: #5555d9;
+    margin-bottom: 26px;
+    font-family: 'Roboto';
+}
+.umrah-intro{
+    border-radius: 20px;
+    color: #000;
+    padding: 25px;
+}
+.light-bg{
+    background-color: aliceblue;
+    margin-top: 9px;
+    padding: 16px;
+}
+.choose-us{
+    padding-top: 80px;
+    width: 523px;
+}
+.choose-us-content{
+    padding-top: 25px;
+    color: #000;
+}
+.section-header{
+    font-size: 27px;
+    font-weight: 500;
+    padding-top: 20px;
+    color: #5555d9;
+}
+.umrah-service{
+    padding-top: 70px;
+    color: #000;
+}
+.service-icons{
+    font-size: 18px;
+}
+.img-radius{
+    border-radius: 18px;
+}
+
+.booking-png img{ 
+    width: 259px;
+}
+.booking-content{
+    color: #000;
+    font-size: 21px;
+    font-family: fangsong;
+}
+.point-1{
+    width: 24px;
+    height: 24px;
+    background-color: #157cf1;
+    border-radius: 13px;
+    position: relative;
+    top: 28px;
+    right: 28px;
+    color: #fff;
+    text-align: center;
+    padding-top: 3px;
+}

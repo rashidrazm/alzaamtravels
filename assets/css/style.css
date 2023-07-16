@@ -365,6 +365,20 @@ body {
   margin-inline: auto;
   margin-block-start: 20px;
 }
+.call{
+  color: black;
+  font-weight: 500;
+  margin-top: 15px;
+}
+.call i{
+  background-color: #4ae94a;
+  width: 34px;
+  height: 33px;
+  border-radius: 168px;
+  padding-left: 9px;
+  padding-top: 8px;
+  color: #fff
+}
 
 
 
@@ -474,6 +488,20 @@ body {
   text-align: center;
   padding-bottom: 65%;
   padding-left: 3%;
+}
+.read-more{
+  background-color: #5555d9;
+    width: 111px;
+    height: 34px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 91px;
+    margin-top: 4px;
+    color: white;
+    font-weight: 500;
+}
+.read-more:hover{
+  color: rgb(212, 204, 204);
 }
 
 /*-----------------------------------*\
@@ -838,6 +866,8 @@ textarea.input-field {
 .footer {
   background-color: var(--white-2);
   padding-block: 20px;
+  position: relative;
+  bottom: 88px;
 }
 
 .copyright {
