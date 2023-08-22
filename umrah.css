@@ -53,7 +53,7 @@
 .point-1{
     width: 24px;
     height: 24px;
-    background-color: #157cf1;
+    background-color:#5555d9;
     border-radius: 13px;
     position: relative;
     top: 28px;
@@ -61,4 +61,43 @@
     color: #fff;
     text-align: center;
     padding-top: 3px;
+}
+
+.img-slide{
+    width: 122%;
+    position: relative;
+    right: 104px;
+    height: 464px;
+    border-radius: 13px;
+}
+
+
+.home-slide{
+    margin-top: 139px;
+}
+.prev{
+    font-size: 41px;
+    position: relative;
+    right: 151px;
+    bottom: 258px;
+}
+.next{
+    font-size: 41px;
+    position: relative;
+    left: 1270px;
+    bottom: 345px;
+}
+
+.next:hover{
+    color: #5555d9;
+}
+.prev:hover{
+    color: #5555d9;
+}
+
+#home{
+    margin-top: 129px;
+}
+.alzaam-h1{
+    color: #5555d9;
 }
